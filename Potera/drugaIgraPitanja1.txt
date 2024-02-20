@@ -1,0 +1,29 @@
+Ko je osnovao jezik C++?:Steve Jobs:Bjarne Stroustrup:Burt Rutan:b
+Koja je razlika izmedju ++i i i++ u C-u?:Nema razlike:Vreme izvodjenja:Vracanje vrednosti pre inkrementa:c
+Koja je razlika izmedju malloc() i calloc() u C-u?:Alokacija memorije:Nema razlike:Inicijalizacija memorije na nulu:c
+Od funckija fgets() i gets(), koja je sigurnija za koriscenje?:fgets():gets():nijedna:a
+Kako se koristi void* pokazivac u C-u?:Pokazuje na neodredjeni tip podataka:Ispisuje praznine u memoriji:Pokazuje na adresu funkcije:a
+Kako se manipulise bitovima u C-u?:Koriscenjem operatora bitwise:Pomocu bitset biblioteke:Operatorima &, |, ^:c
+Kako se koristi static kljucna rec u C-u?:Povecava vidljivost varijable:Ogranicava vidljivost varijable na datoteku:Ogranicava pristup varijabli:b
+Koji jezik se smatra pretecom jezika C++?:C:Pascal:Fortran:a
+Koja je kljucna razlika izmedju jezika C i C++?:Vremenska slozenost:OOP koncepti:Sintaksa funkcija:b
+Koja od sledecih konstrukcija pripada C++-u, a ne jeziku C?:namespace:struct:typedef:a
+Ko je autor jezika C?:Dennis Ritchie:Bill Gates:Linus Torvalds:a
+Koja kljucna rec se koristi za alokaciju dinamicke memorije u jeziku C?:new:allocate:malloc:c
+Koja kljucna rec se koristi za alokaciju memorije za niz u C++?:new:malloc:allocate:a
+Kako se deklarise referenca u C++?:int& x = y:int* x = &y:ref x = y:a
+Koja kljucna rec oznacava da funkcija ne vraca vrednost u C++?:return:void:empty:b
+Koji operator se koristi za pristup clanovima strukture u jeziku C?:->:[]:.:c
+Kako se deklarise konstanta u C?: const:constant:final:a
+Koja kljucna rec se koristi za stvaranje referenca u C++?:&:*:ref:a
+Koja kljucna rec se koristi za definisanje konstruktora u C++?:init:constructor:create:b
+Koja funkcija se koristi za ispis teksta u konzolu u C++?:print:cout:display:a
+Koja kljucna rec se koristi za definisanje izuzetka u C++?:exception:throw:catch:b
+Koja kljucna rec se koristi za oznacavanje clana klase koji ne moze biti promenjen?:immutable:final:const:c
+Kako se postavlja vrednost pokazivaca na nullptr u C++?:null:nullptr:None:b
+Koja kljucna rec se koristi za automatsko prekidanje petlje u C++?:exit:break:continue:b
+Koji je rezultat izraza "5 / 2" u C++?:2:2.5:2.0:a
+Koja funkcija se koristi za postavljanje polozaja u fajlu u C?:fseek:position:set_position:a
+Kako se definise makro u jeziku C?:#macro:#define:macro:b
+Koja kljucna rec se koristi za označavanje metoda koje ne menjaju stanje objekta u C++?:const:immutable:static:a
+Koja kljucna rec se koristi za alokaciju dinamicke memorije u jeziku C?:malloc:new:allocate:a

@@ -1,0 +1,20 @@
+Kako se koristi "fgets" za citanje stringa iz fajla u jeziku C?:read(buffer, size, file_ptr);:fgets(buffer, size, file_ptr);:file_ptr.fgets(buffer, size);:b
+Koja kljucna rec se koristi za kreiranje i hvatanje izuzetka u C++?:catch:try:throw:b
+Koja funkcija se koristi za uporedjivanje stringova u jeziku C?:strcmp:compare:equals:a
+Kako se koristi "cin" za unos vise karaktera u jeziku C++?:cin.getline(char_array, size);:cin >> char_array;:read(char_array);:a
+Koja kljucna rec se koristi za definisanje staticke metode u C++?:method:static:member:b
+Koji operator se koristi za deo memorije u jeziku C?:malloc:allocate:&:c
+Koja funkcija se koristi za poredjenje niza bajtova u jeziku C++?:memcmp:compare:byte_compare:a
+Kako se koristi "ofstream" za pisanje u tekstualni fajl u jeziku C++?:ofstream file("filename.txt");:file.open("filename.txt");:write_file("filename.txt");:a
+Koja kljucna rec se koristi za preklopjivanje operatora dodele u C++?:copy:operator=:assign:b
+Koja funkcija se koristi za deo memorije u jeziku C?:malloc:deallocate:memory:a
+Kako se deklarise referenca na konstantan objekat u C++?:const T& ref_obj:const_ref obj:T& const ref_obj:a
+Koja kljucna rec se koristi za definisanje makroa sa argumentima u jeziku C?:#macro MACRO(arg):#define MACRO(arg) {arg}:#define MACRO(arg):c
+Koja funkcija se koristi za povezivanje stringova u jeziku C?:concatenate:strcat:join:b
+Kako se koristi "cin" za unos boolean vrednosti u jeziku C++?:bool_variable = cin >> boolalpha;:cin >> bool_variable;:input(bool_variable);:a
+Koja kljucna rec se koristi za definisanje operatora pretvaranja tipa u C++?:cast:type_convert:operator_cast:c
+Koja funkcija se koristi za citanje strukture iz fajla u jeziku C?:read:fread:file_read:b
+Kako se koristi "cout" za ispis vise promenljivih u istom redu u jeziku C++?:cout << var1 << " " << var2;:print(var1, var2);:display(var1, var2);:a
+Koja kljucna rec se koristi za definisanje privatnog nasledjivanja u C++?:protected:private:inherit:b
+Kako se koristi "scanf" za unos stringa u jeziku C?:scanf("%s", str);:input(str);:read(str);:a
+Koja kljucna rec se koristi za rad sa fajlovima u jeziku C++?:file:io:fstream:c

@@ -1,0 +1,10 @@
+Koji operator se koristi za dinamicko oslobadjanje memorije alocirane pomocu new?:delete
+Kako se naziva funkcija koja se koristi za zavrsetak izvrsavanja programa?:exit
+Kako se naziva operator za logicko NE?:!
+Koja rec se koristi za definisanje makroa u C-u?:#define
+Kako se naziva funkcija u C koja se koristi za alokaciju bloka memorije?:malloc
+Koji operator se koristi za oslobadjanje memorije alocirane pomocu malloc()?:free
+Koji operator se koristi za logicko "ili"?:||
+Koji operator se koristi za alokaciju memorije za objekte u C++-u?:new
+Koji operator se koristi za logicko "i"?:&&
+Kako se naziva funkcija ugradjena u kod u C++?:inline

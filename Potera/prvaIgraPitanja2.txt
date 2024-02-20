@@ -1,0 +1,10 @@
+Koji tip podataka se koristi za cuvanje celobrojnih vrednosti?:int
+Kako se pise operator za indeksiranje niza?:[]
+Kako se oznacava jednostruki komentar?://
+Koji tip podataka se koristi za cuvanje decimalnih brojeva sa dvostrukom preciznoscu?:double
+Kako se naziva operator za pristup adresi neke promenljive?:&
+Kako se naziva operator za dodelu vrednosti?:=
+Koji jezik je prethodnik C++-a?:c
+Kako se naziva funkcija koja vraca vrednost iz funkcije?:return
+Koja rec se koristi za preskakanje i prelazak na sledecu iteraciju?:continue
+Koji operator vraca velicinu tipa podataka?:sizeof

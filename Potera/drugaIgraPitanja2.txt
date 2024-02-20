@@ -1,0 +1,20 @@
+Koja kljucna rec se koristi za alokaciju memorije za niz u C++?:new:malloc:allocate:a
+Koja kljucna rec oznacava da funkcija ne vraca vrednost u C++?:return:void:empty:b
+Koja kljucna rec se koristi za oznacavanje metoda koje ne menjaju stanje objekta u C++?:immutable:const:static:b
+Koja kljucna rec se koristi za preusmeravanje toka u C++?:<<:>>:<=>:a
+Koja funkcija se koristi za citanje karaktera iz fajla u C?:read:fgetc:getchar:b
+Koja je vrednost pokazivaca na prvi element niza?:arr[0]:arr.first():arr.at(0):a
+Kako se koristi "cin" za unos podataka u C++?:cin >> variable:input(variable):read(variable):a
+Koja kljucna rec se koristi za definisanje uslova preprocesora u C?:#ifdef:#if:#define:c
+Kako se koristi "switch" statement u C++?:switch(expression) {...}:switch {...}:case {...}:a
+Koja je razlika izmedju "memset" i "memcpy" funkcija u C?:postavljanje bajtova:kopiranje bajtova:brisanje memorije:b
+Koji je rezultat izraza "sizeof(int)" u C?:8:4:zavisi od sistema:b
+Koja kljucna rec se koristi za kreiranje nove instance objekta u C++?:new:create:instance:a
+Koja funkcija se koristi za povecanje preciznosti decimalnih brojeva u C++?:precision:setprecision:float_precision:b
+Koja kljucna rec se koristi za oznacavanje metoda koje ne menjaju stanje objekta u C++?:const:immutable:static:a
+Kako se definise konstantan pokazivac na funkciju u C++?:const function_ptr:function():func_ptr:a
+Koja kljucna rec se koristi za oznacavanje clana klase koji ne moze biti promenjen?:immutable:const:final:b
+Koja funkcija se koristi za deo memorije u jeziku C++?:free:deallocate:remove:a
+Koji operator se koristi za preklapanje operatora indeksiranja u jeziku C++?:():{}:[]:c
+Koja funkcija se koristi za konverziju stringa u celobrojni tip u jeziku C++?:stoi:convert_to_int:string_to_ints:a
+Koja kljucna rec se koristi za definisanje apstraktne klase u C++?:class:abstract:virtual:b

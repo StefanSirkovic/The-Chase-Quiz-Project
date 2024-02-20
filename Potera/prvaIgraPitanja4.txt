@@ -1,0 +1,10 @@
+Koja je funkcija za citanje sa standardnog ulaza u C?:scanf
+Koja je funkcija za ispisivanje na standardni izlaz u C++?:cout
+Kako se naziva petlja koja se izvrsava sve dok je uslov tacan?:while
+Kako se pise operator za uslovnu dodelu u C++?:?
+Koja je funkcija za ispisivanje na standardni izlaz u C?:printf
+Kako se naziva funkcija koja konvertuje string u ceo broj u C?:atoi
+Koja je rezervisana rec za deklarisanje nabrajanja u C++?:enum
+Koja je rezervisana rec za definisanje uslovnog izraza?:if
+Kako se pise operacija za proveru netacnosti?:!=
+Kako se pise operacija za izvrsavanje dela koda ako je uslov netacan?:else

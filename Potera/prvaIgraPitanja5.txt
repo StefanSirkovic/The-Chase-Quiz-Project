@@ -1,0 +1,10 @@
+Kako se naziva funkcija koja konvertuje string u realan broj u C?:atof
+Kako se naziva funkcija koja vraca vrednost iz funkcije?:return
+Kako se naziva operator za pristup adresi neke promenljive?:&
+Kako se naziva funkcija za kopiranje niza bajtova u C?:memcpy
+Koja je funkcija za pronalazenje duzine stringa u C?:strlen
+Kako se naziva funkcija za otvaranje datoteke u C?:fopen
+Kako se naziva operacija za proveru razlicitosti izmedju dva stringa u C-u?:strcmp
+Koja je rezervisana rec za deklarisanje globalne promenljive u C-u?:extern
+Koja je rezervisana rec za prelazak na sledeci slucaj u switch strukturi u C-u?:break
+Koja je funkcija za konverziju karaktera u mala slova u C-u?:tolower
